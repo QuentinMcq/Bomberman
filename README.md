@@ -4,4 +4,4 @@ Projet dans lequel nous devions créer un jeu vidéo. Dans le Bomberman, vous de
 
 Projet scolaire réalisé en groupe de trois personnes d'Avril à Juin 2019. 
 
-_Technologies utilisées_ : **Python** et la librairie **PyQT** (interface graphique).
+_Technologies utilisées_ : **Python** et la librairie **PyQt** (interface graphique).
